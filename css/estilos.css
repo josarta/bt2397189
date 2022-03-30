@@ -1,0 +1,31 @@
+.bg--gris{
+    background-color: #b3bebe;
+}
+
+.asj--mtop-10{
+    margin-top: 10px;
+}
+
+hr{
+    height: 4px !important;
+}
+
+.flex--cc{
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.btn--fin{
+    text-align: end;
+}
+
+.flex--icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#sec-1{
+    margin-top: 150px;
+}
